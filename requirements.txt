@@ -3,3 +3,5 @@ ipywidgets
 openai==3.16.2
 python-dotenv
 'fastmcp[server]'
+yandex-ai-studio-sdk
+aiohttp
